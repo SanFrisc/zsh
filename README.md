@@ -1,4 +1,4 @@
-# zsh loveliness from Fergus
+# zsh loveliness from Sandra Frischmuth (yay!)
 
 ## installation
 Use the project install file.  
